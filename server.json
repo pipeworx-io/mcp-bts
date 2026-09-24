@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/bts",
   "title": "Bts",
   "description": "U.S. Bureau of Transportation Statistics (BTS) — data.bts.gov open-data portal (Socrata platform).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/bts",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-bts",
