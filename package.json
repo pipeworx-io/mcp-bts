@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bts",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "U.S. Bureau of Transportation Statistics (BTS) — data.bts.gov open-data portal (Socrata platform).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-564a1708783629b69a5485526d2faae2d33df39e40fb5d62b642e87edfbb12a0",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-d7dd3a8e813077b7b1db831f07b60d6993b8973ff06862c80bb6887c54359986",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
